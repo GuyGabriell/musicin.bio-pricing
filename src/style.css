@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/outfit');
+@import "tailwindcss";
+
+
+
+@theme {
+  
+ --font-Outfit: "Outfit", "sans-serif";
+                                                                                 
+}
